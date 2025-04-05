@@ -1,0 +1,80 @@
+/* Import slick styles */
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+/* Custom slider styles */
+.review-slider {
+    position: relative;
+    padding: 0 40px;
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+
+/* Navigation arrows */
+.review-slider .slick-prev,
+.review-slider .slick-next {
+    width: 40px;
+    height: 40px;
+    z-index: 10;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.review-slider .slick-prev {
+    left: -10px;
+}
+
+.review-slider .slick-next {
+    right: -10px;
+}
+
+.review-slider .slick-prev:before,
+.review-slider .slick-next:before {
+    font-size: 40px;
+    color: white;
+    opacity: 0.75;
+}
+
+/* Dots navigation */
+.review-slider .slick-dots {
+    bottom: -40px; /* Adjusted to be more visible */
+    z-index: 10;
+}
+
+.review-slider .slick-dots li {
+    margin: 0 4px;
+}
+
+.review-slider .slick-dots li button:before {
+    font-size: 12px;
+    color: white;
+    opacity: 0.5;
+}
+
+.review-slider .slick-dots li.slick-active button:before {
+    color: white;
+    opacity: 1;
+}
+
+/* Slide spacing */
+.review-slider .slick-slide {
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+/* List container */
+.review-slider .slick-list {
+    margin: -12px;
+    padding: 12px 0;
+    overflow: visible;
+}
+
+/* Track */
+.review-slider .slick-track {
+    padding: 12px 0;
+}
+
+/* Active slide */
+.review-slider .slick-slide.slick-active {
+    opacity: 1;
+}
