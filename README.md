@@ -20,11 +20,11 @@ A modern restaurant design, responsive website for a restaurant that showcases i
 
 ## ✨ Live Demo
 
-[Click here to view the live demo](#) <!-- Replace with your actual deployed link -->
+[Click here to view the live demo](https://rococo-tartufo-745e98.netlify.app/) <!-- Replace with your actual deployed link -->
 
 <p align="center">
   <a href="#">
-    <img src="https://via.placeholder.com/200x60?text=Live+Demo" alt="Live Demo Button">
+    <img src="https://rococo-tartufo-745e98.netlify.app/" alt="Live Demo Button">
   </a>
 </p>
 
