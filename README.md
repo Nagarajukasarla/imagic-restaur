@@ -4,6 +4,18 @@
   <img src="src/assets/screenshots/Heroic.png" alt="Hidalgo's Restaurant" width="800">
 </div>
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=for-the-badge)](https://your-live-link-here.com)
+[![React](https://img.shields.io/badge/React-18.2.0-blue.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-blue.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-6.2.0-purple.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0.17-38B2AC.svg?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+
+## 🍽️ About The Project
+
+A modern restaurant design, responsive website for a restaurant that showcases its menu, ambiance, and services. The website is designed to provide an immersive experience for visitors, allowing them to explore the restaurant's offerings, read customer reviews, and make reservations.
+
+## ✨ Live Demo
+
 <div align="center">
   <a href="https://rococo-tartufo-745e98.netlify.app/" target="_blank">
     <div style="
@@ -41,25 +53,6 @@
     </div>
   </a>
 </div>
-
-[![React](https://img.shields.io/badge/React-18.2.0-blue.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-blue.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.2.0-purple.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0.17-38B2AC.svg?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-
-## 🍽️ About The Project
-
-A modern restaurant design, responsive website for a restaurant that showcases its menu, ambiance, and services. The website is designed to provide an immersive experience for visitors, allowing them to explore the restaurant's offerings, read customer reviews, and make reservations.
-
-## ✨ Live Demo
-
-[Click here to view the live demo](#) <!-- Replace with your actual deployed link -->
-
-<p align="center">
-  <a href="#">
-    <img src="https://via.placeholder.com/200x60?text=Live+Demo" alt="Live Demo Button">
-  </a>
-</p>
 
 ## 📸 Screenshots
 
