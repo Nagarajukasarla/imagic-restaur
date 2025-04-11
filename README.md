@@ -40,10 +40,6 @@ A modern restaurant design, responsive website for a restaurant that showcases i
   <img src="src/assets/screenshots/Contact.png" alt="Contact Page" width="400">
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <i>Replace these placeholder images with actual screenshots of your website</i>
-</p>
-
 ## 🚀 Features
 
 - **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop devices
