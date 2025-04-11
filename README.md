@@ -1,4 +1,4 @@
-# Hidalgo's Restaurant - Modern Restaurant Website
+# Modern Restaurant Website
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Hidalgo's+Restaurant" alt="Hidalgo's Restaurant" width="800">
@@ -16,9 +16,7 @@
 
 ## 🍽️ About The Project
 
-Hidalgo's Restaurant is a modern, responsive website for a restaurant that showcases its menu, ambiance, and services. The website is designed to provide an immersive experience for visitors, allowing them to explore the restaurant's offerings, read customer reviews, and make reservations.
-
-Experience the rich flavors of Hidalgo's Restaurant, where culinary passion meets a warm and inviting atmosphere! Founded in 2010, our restaurant is dedicated to providing an unforgettable dining experience that celebrates the rich flavors and diverse cuisines of San Angelo.
+A modern restaurant design, responsive website for a restaurant that showcases its menu, ambiance, and services. The website is designed to provide an immersive experience for visitors, allowing them to explore the restaurant's offerings, read customer reviews, and make reservations.
 
 ## ✨ Live Demo
 
@@ -101,8 +99,6 @@ Experience the rich flavors of Hidalgo's Restaurant, where culinary passion meet
 - [Vite](https://vitejs.dev/) - Build tool and development server
 - [TailwindCSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Framer Motion](https://www.framer.com/motion/) - Animation library
-- [React Router](https://reactrouter.com/) - Routing
-- [Leaflet](https://leafletjs.com/) - Interactive maps
 
 ## 📝 License
 
