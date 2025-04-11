@@ -1,7 +1,7 @@
 # Modern Restaurant Website
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Hidalgo's+Restaurant" alt="Hidalgo's Restaurant" width="800">
+  <img src="src/assets/screenshots/Heroic.png" alt="Hidalgo's Restaurant" width="800">
 </p>
 
 <div align="center">
@@ -31,13 +31,13 @@ A modern restaurant design, responsive website for a restaurant that showcases i
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x250?text=Home+Page" alt="Home Page" width="400" style="margin-right: 10px;">
-  <img src="https://via.placeholder.com/400x250?text=Menu+Page" alt="Menu Page" width="400">
+  <img src="src/assets/screenshots/Heroic.png" alt="Home Page" width="400" style="margin-right: 10px;">
+  <img src="src/assets/screenshots/Menu.png" alt="Menu Page" width="400">
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://via.placeholder.com/400x250?text=About+Page" alt="About Page" width="400" style="margin-right: 10px;">
-  <img src="https://via.placeholder.com/400x250?text=Contact+Page" alt="Contact Page" width="400">
+  <img src="src/assets/screenshots/About.png" alt="About Page" width="400" style="margin-right: 10px;">
+  <img src="src/assets/screenshots/Contact.png" alt="Contact Page" width="400">
 </div>
 
 <p align="center" style="margin-top: 20px;">
