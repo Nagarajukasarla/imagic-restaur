@@ -17,41 +17,66 @@ A modern restaurant design, responsive website for a restaurant that showcases i
 ## ✨ Live Demo
 
 <div align="center">
-  <a href="https://rococo-tartufo-745e98.netlify.app/" target="_blank">
-    <div style="
-      max-width: 600px;
-      margin: 20px auto;
-      padding: 20px;
-      border-radius: 12px;
-      background: #ffffff;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-decoration: none;
-      color: inherit;
-    ">
-      <img src="src/assets/screenshots/Heroic.png" alt="Project Preview" style="
-        width: 100%;
-        height: 300px;
-        object-fit: cover;
-        border-radius: 8px;
-        margin-bottom: 16px;
-      ">
-      <div style="
-        display: flex;
-        align-items: center;
-        gap: 12px;
-      ">
-        <h2 style="margin: 0;">Hidalgo's Restaurant - Live Demo</h2>
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          <path d="M15 3h6v6" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          <path d="M10 14L21 3" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </div>
-    </div>
-  </a>
+    <a href="https://rococo-tartufo-745e98.netlify.app/" target="_blank">
+        <div
+        style="
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border-radius: 12px;
+            background: #ffffff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-decoration: none;
+            color: inherit;
+        "
+        >
+        <img
+            src="src/assets/screenshots/Hero2.png"
+            alt="Project Preview"
+            style="
+            width: 800px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 16px;
+            "
+        />
+        <div style="display: flex; align-items: center; gap: 12px">
+            <h2 style="margin: 0">Hidalgo's Restaurant - Live Demo</h2>
+            <svg
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            >
+            <path
+                d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"
+                stroke="#000"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+            />
+            <path
+                d="M15 3h6v6"
+                stroke="#000"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+            />
+            <path
+                d="M10 14L21 3"
+                stroke="#000"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+            />
+            </svg>
+        </div>
+        </div>
+    </a>
 </div>
 
 ## 📸 Screenshots
