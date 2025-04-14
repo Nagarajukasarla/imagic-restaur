@@ -16,9 +16,9 @@ A modern restaurant design, responsive website for a restaurant that showcases i
 
 ## ✨ Live Demo
 
-[![Hidalgo's Restaurant](src/assets/screenshots/Hero2.png)](https://rococo-tartufo-745e98.netlify.app/)
+[![Hidalgo's Restaurant](src/assets/screenshots/Hero2.png)](your-live-link)
 
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-Netlify-success?style=for-the-badge&logo=netlify)](https://rococo-tartufo-745e98.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/View_Live_Demo-Netlify-success?style=for-the-badge&logo=netlify)](your-live-link)
 
 <div align="center">
   <a href="https://rococo-tartufo-745e98.netlify.app/" target="_blank">
